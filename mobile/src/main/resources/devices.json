@@ -1,0 +1,20 @@
+{
+  "android_11": {
+    "platformName": "Android",
+    "platformVersion": "11",
+    "name": "Pixel 6",
+    "udid": "emulator-5554"
+  },
+  "android_9": {
+    "platformName": "Android",
+    "platformVersion": "9",
+    "name": "Pixel 6 pro",
+    "udid": "emulator-5554"
+  },
+  "ios_14": {
+    "platformName": "IOS",
+    "platformVersion": "16.4",
+    "name": "iPhone 14 Pro Max",
+    "udid": "011A9EF4-428B-426C-9A97-C5FF9F6C7177"
+  }
+}
